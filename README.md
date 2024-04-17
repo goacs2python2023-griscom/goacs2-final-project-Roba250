@@ -9,6 +9,10 @@ If you are pulling data from an API, please put the data into a file in this rep
 
 THANK YOU FOR A GREAT SEMESTER! :)
 
+-Using Data from a website 
+-I imported in into GitHub as txt files
+-The files are read and created into Bohke plotting graphs
+
 ---
 
 ## SPECIAL INSTRUCTIONS FOR API USERS
