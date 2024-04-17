@@ -1,0 +1,53 @@
+Alaska|1
+Alabama|2
+Arkansas|3
+Arizona|0
+California|2
+Colorado|2
+Connecticut|5
+District of Columbia|8
+Delaware|9
+DoDEA|0
+Florida|0
+Georgia|2
+Hawaii|1
+Iowa|2
+Idaho|8
+Illinois|0
+Indiana|4
+Kansas|4
+Kentucky|4
+Louisiana|2
+Massachusetts|4
+Maryland|7
+Maine|8
+Michigan|6
+Minnesota|7
+Missouri|5
+Mississippi|2
+Montana|3
+North Carolina|5
+North Dakota|4
+Nebraska|4
+New Hampshire|2
+New Jersey|4
+New Mexico|5
+Nation (public)|3
+Nevada|6
+New York|6
+Ohio|3
+Oklahoma|8
+Oregon|7
+Pennsylvania|4
+Rhode Island|3
+South Carolina|0
+South Dakota|4
+Tennessee|5
+Texas|2
+Utah|4
+Virginia|10
+Vermont|5
+Washington|3
+Wisconsin|2
+West Virginia|8
+Wyoming|2
